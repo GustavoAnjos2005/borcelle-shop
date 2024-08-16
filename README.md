@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Borcelle Shop
 
-## Getting Started
+## In this project, I watched the video by Code With Phuc for inspiration. I will leave the link to the video below:
 
-First, run the development server:
+### https://youtu.be/SR4dFgdKUyI?si=3F1MZwxO0jI081kB
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is an e-commerce site where users can view product descriptions, add products to their favorites, see new releases and promotions, add and view items in the cart, and complete the payment. It was built using:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- React.TS
+- TailWind CSS
+- Next.JS
+- Stripe
+- MongoDB
+- Clerk
+![Borcelle1](https://github.com/user-attachments/assets/39b268ce-632e-4edb-9558-0cd7223a8f32)
+![Borcelle2](https://github.com/user-attachments/assets/26e9346e-11c1-43b0-8ad8-4d3897ab165e)
+![Borcelle3](https://github.com/user-attachments/assets/ee62f1b5-8244-4336-af59-1d5513c19712)
+![Borcelle4](https://github.com/user-attachments/assets/62afebfd-f44c-4b11-b69b-6d001633bb0c)
+![Borcelle5](https://github.com/user-attachments/assets/56960ed2-4a1a-413a-93a4-3bcb354370a2)
+![Borcelle6](https://github.com/user-attachments/assets/40a76370-83ac-42fd-80ac-3135e0a0bead)
+![Borcelle7](https://github.com/user-attachments/assets/d6b99045-8d96-4563-aa2a-51f00dfb7686)
